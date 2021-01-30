@@ -5,7 +5,7 @@
 import os #importing os will help accessing your enviroment variables 
 import smtplib #we will be using smtplib library
 from email.message import EmailMessage #importing this so we can have good structure for our message
-import imghdr
+import imghdr #IMG HDR
 
 # 'os.environ.get' will take argument of your name of enviroment variable you want to import
 my_gmail_username = os.environ.get('gmail2_username') 
