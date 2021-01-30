@@ -8,3 +8,4 @@ To Send Mails Using GMail, first you need to implement this changes to your goog
 3) Go through botformailswithimageattachments.py for messages with Image attachments
 
 *Made boring work automated.
+*OR STAY BORING!!
