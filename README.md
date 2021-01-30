@@ -6,3 +6,5 @@ To Send Mails Using GMail, first you need to implement this changes to your goog
 2) Go through simplebot.py for simple structure of sending mails by bot.
 3) Go through botformailswithpdfattachments.py for messages with PDFs attachments
 3) Go through botformailswithimageattachments.py for messages with Image attachments
+
+*Made boring work automated.
